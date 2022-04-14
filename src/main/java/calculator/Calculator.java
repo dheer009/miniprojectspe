@@ -112,6 +112,7 @@ public class Calculator {
         logger.info("[RESULT - NATURAL LOG] - " + result);
         return result;
     }
+    //hello
     public double fact(double num) {
         double facto = 1;
         for(int i = 1; i <= num; ++i)
