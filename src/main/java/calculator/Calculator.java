@@ -77,7 +77,7 @@ public class Calculator {
         return result;
     }
 
-
+    //hello java
 
     public double sqroot(double number1) {
         logger.info("[SQ ROOT] - " + number1);
@@ -118,5 +118,5 @@ public class Calculator {
         { facto *= i;   }
         return  facto;
     }
-    //hello
+    
 }
