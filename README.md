@@ -1,1 +1,1 @@
-miniprojectspe
+miniprojectspeCalculator
